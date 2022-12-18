@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/dbus-codegen-tests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-codegen-tests/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-codegen/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-codegen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-crossroads/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-crossroads/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-native-channel/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-native/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-native/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-tokio/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-tokio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-tree/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus-tree/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbus/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/libdbus-sys/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
